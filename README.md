@@ -98,3 +98,15 @@ Nothing in this repo should be read as evidence that any model can trade profita
 - Intrabar resolution. Bars are OHLC only, so when a single bar touches both the stop and the target the stop is assumed to have hit first. Pessimistic on purpose.
 - Statistical significance. Twenty or thirty trades on one instrument tells you almost nothing about a model. Fixing that means many symbols, many periods, and repeated seeds, which is a different and much larger project.
 - Authentication and multi user support. This is a single user local tool with a deployed read only replay.
+
+---
+
+## Contact
+
+Built by **Alorny AI**. For custom AI agents, automation systems or websites, or to hire us, get in touch:
+
+- Website: [alorny.cloud](https://alorny.cloud)
+- Email: [contact@alorny.cloud](mailto:contact@alorny.cloud)
+- WhatsApp: [+263 71 441 2862](https://wa.me/263714412862)
+- Phone: [+263 71 441 2862](tel:+263714412862)
+- GitHub: [@Hieronymos2077](https://github.com/Hieronymos2077)
